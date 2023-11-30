@@ -6,7 +6,7 @@ export default function App() {
 
   // move these to env variables
   const USERNAME = 'adcat@hdfclife.com';
-  const USERPASSWORD = 'Hdfc@1234';
+  const USERPASSWORD = 'Charity@243';
   const APPID = '2d58cdca715651537c0dac5ffc0daac28';
 
   const getAuthToken = async () => {
